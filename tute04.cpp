@@ -59,6 +59,6 @@ long Factorial(int no)
 long nCr(int n, int r)
 {
   long q= Factorial(n)/(Factorial(r)*Factorial(n-r));
-  return y;
+  return q;
   
  }
